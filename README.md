@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucero Rodea</h1>
-<h3 align="center">Student of at TESJI.</h3>
+<h3 align="center">Student of ISIC at TESJI.</h3>
 
 <br>
 
