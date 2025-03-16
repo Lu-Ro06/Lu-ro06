@@ -27,7 +27,7 @@
 </p>
 
 <br>   
-<h3 alinear="izquierda">Algunos de mis lenguajes utilizados:</h3>
+<h3 alinear="izquierda">Algunos de mis herramientas utilizadas:</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
