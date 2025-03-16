@@ -70,24 +70,18 @@
 
 <br>
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
 
 
-
-
-------
+  
+  
+  
+  
+  
+  
+  
+  
 
 
 
