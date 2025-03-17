@@ -81,7 +81,7 @@
 <img src="https://www.google.com/imgres?q=personaje%20snowball&imgurl=https%3A%2F%2Fmovienetworkpr.com%2Fwp-content%2Fuploads%2F2016%2F01%2Fpets_web2.png&imgrefurl=https%3A%2F%2Fmovienetworkpr.com%2Feugenio-derbez-es-snowball-en-la-vida-secreta-de-tus-mascotas%2F&docid=8a3rIa3B0-tlpM&tbnid=0_WegGcIyzvgRM&vet=12ahUKEwilpuHf54-MAxUGiO4BHUazKIwQM3oECBwQAA..i&w=1200&h=628&hcb=2&ved=2ahUKEwilpuHf54-MAxUGiO4BHUazKIwQM3oECBwQAA" alt="TheAbbie" width="200" height="200">
 
 ## Tareas
-- [incógnita] Nacido
+- [x] Nacido
 - [ ] Got a job
 - [ ] Married
 - [ ] Have children
