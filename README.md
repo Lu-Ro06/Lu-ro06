@@ -35,7 +35,9 @@
 
 <br>   
 <h3 alinear="izquierda">Algunos de mis herramientas utilizadas:</h3>
-    <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> <img
+      <img
+    <a href="https://bootstrapstudio.io/" target="_blank" title ="bootstrap studio"> 
+      <img
             <src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Bootstrap_Studio_Logo.png/768px-Bootstrap_Studio_Logo.png"
             alt="bootstrap studio" width="40" height="40">
                                                                                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
