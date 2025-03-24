@@ -99,12 +99,7 @@
 </p>
 
 
----
-  
-### :fire: My Stats :
-[![Top Langs](https://github.com/Lu-Ro06)](https://github.com/Lu-Ro06)
 
----
  
   
   
